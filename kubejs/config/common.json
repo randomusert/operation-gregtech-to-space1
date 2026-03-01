@@ -1,0 +1,16 @@
+{
+  "hide_server_script_errors": false,
+  "server_only": false,
+  "announce_reload": true,
+  "packmode": "",
+  "save_dev_properties_in_config": false,
+  "allow_async_streams": true,
+  "match_json_recipes": true,
+  "ignore_custom_unique_recipe_ids": false,
+  "startup_error_gui": true,
+  "startup_error_report_url": "https://github.com/randomusert/operation-gregtech-to-space1/issues?q=sort%3Aupdated-desc+is%3Aissue+is%3Aopen",
+  "remove_slot_limit": false,
+  "default_max_stack_size": 0,
+  "creative_mode_tab_icon": {},
+  "creative_mode_tab_name": "Operation: GTTS KJS items and blocks"
+}

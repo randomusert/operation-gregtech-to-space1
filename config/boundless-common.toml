@@ -1,0 +1,8 @@
+#A list of quest category IDs to completely disable.
+disabledQuestCategories = []
+#Pin the Quest hud to the: bottom_left, bottom_right, top_left, top_right
+pinnedQuestHudPosition = "bottom_left"
+#If true, players spawn with the quest book.
+spawnWithQuestBook = true
+#If true, hides the quest book toggle in the inventory.
+hideQuestBookToggle = false

@@ -1,0 +1,30 @@
+{
+	chapter.05F09150F0A8C233.title: "chapter 2"
+	chapter.2D0562491658AB41.title: "info"
+	chapter.671D94471A5E3BE7.title: "chapter 1"
+	chapter_group.694A8DB932F0476C.title: "early game"
+	file.0000000000000001.title: "Operation: GTTS"
+	quest.04E78EEF01CD0457.title: "logs and planks"
+	quest.16A7D62170804EB4.quest_desc: ["please report issues on https://github.com/randomusert/operation-gregtech-to-space1/issues"]
+	quest.2AF9B11F05B44500.quest_desc: [
+		"&oQuantum research is pefectly safe they said.&r How wrong they were."
+		""
+		""
+		"You were a researcher on researching a material called quantum alloy. The experiment wasn't stable and you were brought into this blocky world. Now you need to figure out how to get out of here."
+	]
+	quest.2F176B8F4DA15EE4.title: "pickaxe"
+	quest.382950A2F21D22DF.quest_desc: ["Welcome to Operation: Gregtech To Space or Operation: GTTS. your ultimate goal is to craft the ultimate quantum alloy."]
+	quest.59AED2B0807FDFA5.title: "stone tools"
+	quest.5E9799F6C3565BF1.quest_desc: ["This pack is designed to have exploring and you should explore and see what you can find and then setle"]
+	quest.6D2511E90C84DFFB.quest_desc: ["This chapter has from getting wood to getting iron"]
+	quest.7B993014A43C74CD.quest_desc: ["Most of the quests don't have any rewards and if they do have, they are some useful items like guides"]
+	quest.7B993014A43C74CD.quest_subtitle: "Where is my rewards"
+	task.08EA3ADB5706F7AE.title: "chapter 1 intro"
+	task.109867E136C9316D.title: "Any #minecraft:logs"
+	task.25D2D41DC7994F95.title: "issues"
+	task.31650C8796B03ED6.title: "Lore time"
+	task.54A15DBFA0DCA824.title: "go exploring"
+	task.63C0C2F6BD2D66CA.title: "Any #minecraft:planks"
+	task.70EEAA66F403D4D6.title: "Welcome to OGTTS"
+	task.74D0D3CD7C95A769.title: "rewards"
+}

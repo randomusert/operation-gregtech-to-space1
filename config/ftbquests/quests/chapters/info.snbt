@@ -1,0 +1,64 @@
+{
+	autofocus_id: "382950A2F21D22DF"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "info"
+	group: ""
+	id: "2D0562491658AB41"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "382950A2F21D22DF"
+			tasks: [{
+				id: "70EEAA66F403D4D6"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["382950A2F21D22DF"]
+			id: "2AF9B11F05B44500"
+			tasks: [{
+				id: "31650C8796B03ED6"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"2AF9B11F05B44500"
+				"382950A2F21D22DF"
+			]
+			id: "16A7D62170804EB4"
+			tasks: [{
+				id: "25D2D41DC7994F95"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["16A7D62170804EB4"]
+			id: "5E9799F6C3565BF1"
+			tasks: [{
+				id: "54A15DBFA0DCA824"
+				type: "checkmark"
+			}]
+			x: -3.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["5E9799F6C3565BF1"]
+			id: "7B993014A43C74CD"
+			tasks: [{
+				id: "74D0D3CD7C95A769"
+				type: "checkmark"
+			}]
+			x: -3.5d
+			y: -1.0d
+		}
+	]
+}
