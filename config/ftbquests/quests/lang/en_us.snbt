@@ -6,12 +6,14 @@
 	file.0000000000000001.title: "Operation: GTTS"
 	quest.04E78EEF01CD0457.title: "logs and planks"
 	quest.16A7D62170804EB4.quest_desc: ["please report issues on https://github.com/randomusert/operation-gregtech-to-space1/issues"]
+	quest.1BAF7B14FA945AE3.title: "iron tools"
 	quest.2AF9B11F05B44500.quest_desc: [
 		"&oQuantum research is pefectly safe they said.&r How wrong they were."
 		""
 		""
 		"You were a researcher on researching a material called quantum alloy. The experiment wasn't stable and you were brought into this blocky world. Now you need to figure out how to get out of here."
 	]
+	quest.2CCC895F40ABA5F0.quest_desc: ["In this chapter you can craft the basic quantum alloy"]
 	quest.2F176B8F4DA15EE4.title: "pickaxe"
 	quest.382950A2F21D22DF.quest_desc: ["Welcome to Operation: Gregtech To Space or Operation: GTTS. your ultimate goal is to craft the ultimate quantum alloy."]
 	quest.59AED2B0807FDFA5.title: "stone tools"
@@ -21,6 +23,7 @@
 	quest.7B993014A43C74CD.quest_subtitle: "Where is my rewards"
 	task.08EA3ADB5706F7AE.title: "chapter 1 intro"
 	task.109867E136C9316D.title: "Any #minecraft:logs"
+	task.1CC11F705C37D13C.title: "chapter 2"
 	task.25D2D41DC7994F95.title: "issues"
 	task.31650C8796B03ED6.title: "Lore time"
 	task.54A15DBFA0DCA824.title: "go exploring"

@@ -139,6 +139,7 @@
 		entity_heads: true
 		entity_icon: {
 			"minecraft:pig": true
+			"minecraft:chicken": true
 			"minecraft:sheep": true
 		}
 		

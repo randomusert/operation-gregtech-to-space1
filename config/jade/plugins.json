@@ -1,8 +1,4 @@
 {
-  "ftbstuff": {
-    "pump": true,
-    "autohammer": true
-  },
   "minecraft": {
     "item_storage.show_name_amount": 5,
     "furnace": true,
@@ -56,6 +52,10 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
+  "compactmachines": {
+    "show_owner": false,
+    "bound_machine": true
+  },
   "jade_access": {
     "held_item": true,
     "sign": true,
@@ -63,15 +63,22 @@
     "entity": true,
     "entity_variant": true
   },
-  "mekanism": {
-    "chemical": true,
-    "remove_builtin": true,
-    "fluid": true,
-    "energy": true,
-    "tooltip_renderer": true
-  },
   "ftbquests": {
     "barrier": true
+  },
+  "pneumaticcraft": {
+    "pneumatic": true,
+    "tube_module": true,
+    "entity": true,
+    "redstone": true,
+    "camo": true,
+    "semiblock": true
+  },
+  "immersiveengineering": {
+    "multiblock_icon": true
+  },
+  "extrastorage": {
+    "advanced_crafter": true
   },
   "gtceu": {
     "primitive_pump": true,
@@ -109,8 +116,9 @@
     "block_properties": false,
     "mod_name": true
   },
-  "waystones": {
-    "waystone": true
+  "extendedae": {
+    "jade_chamber": true,
+    "jade_wireless": true
   },
   "balm": {
     "jade": true
@@ -118,6 +126,14 @@
   "functionalstorage": {
     "armory": true,
     "drawer": true
+  },
+  "integrateddynamicscompat": {
+    "proxy": true,
+    "mechanical_squeezer": true,
+    "mechanical_drying_basin": true,
+    "drying_basin": true,
+    "part": true,
+    "squeezer": true
   },
   "ae2": {
     "part_icon": true,
@@ -130,5 +146,33 @@
     "power_storage": true,
     "crafting_monitor": true,
     "part_name": true
+  },
+  "ftbstuff": {
+    "pump": true,
+    "autohammer": true
+  },
+  "mekanism": {
+    "chemical": true,
+    "remove_builtin": true,
+    "fluid": true,
+    "energy": true,
+    "tooltip_renderer": true
+  },
+  "mysticalagradditions": {
+    "infused_farmland": true
+  },
+  "pipez": {
+    "pipe": true
+  },
+  "waystones": {
+    "waystone": true
+  },
+  "gravestone": {
+    "grave": true
+  },
+  "mysticalagriculture": {
+    "infused_farmland": true,
+    "crop": true,
+    "inferium_crop": true
   }
 }

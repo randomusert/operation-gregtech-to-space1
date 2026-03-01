@@ -6,5 +6,45 @@
 	id: "05F09150F0A8C233"
 	order_index: 1
 	quest_links: [ ]
-	quests: [ ]
+	quests: [
+		{
+			id: "2CCC895F40ABA5F0"
+			tasks: [{
+				id: "1CC11F705C37D13C"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["2CCC895F40ABA5F0"]
+			id: "1BAF7B14FA945AE3"
+			tasks: [
+				{
+					id: "3055AF50788D5DB9"
+					item: { count: 1, id: "minecraft:iron_pickaxe" }
+					type: "item"
+				}
+				{
+					id: "297FB9308D850345"
+					item: { count: 1, id: "minecraft:iron_axe" }
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["1BAF7B14FA945AE3"]
+			id: "66C67B45E65F1F12"
+			tasks: [{
+				count: 16L
+				id: "0B2803EECBDD19CA"
+				item: { count: 1, id: "minecraft:diamond" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -1.0d
+		}
+	]
 }
